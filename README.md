@@ -19,13 +19,20 @@ Interacting with the Website:
 4. Optional Calendar View: It is implemented to view orders on their expected delivery dates in a calendar format. Click on dates to view orders due for delivery on that day.
 
 # Screenshots
+![Screenshot (8)](https://github.com/Debash1sh-Panda/ENTNT_ASSIGNMENT_ERP_SYSTEM/assets/144515067/8e52fa97-fe55-4aa4-b8e9-5bc59d291adb)
 
+![Screenshot (9)](https://github.com/Debash1sh-Panda/ENTNT_ASSIGNMENT_ERP_SYSTEM/assets/144515067/17757055-02ad-48cc-b4e7-0a164b6f2d1a)
+
+![Screenshot (9)](https://github.com/Debash1sh-Panda/ENTNT_ASSIGNMENT_ERP_SYSTEM/assets/144515067/89bd9f68-8a6f-4b7a-8863-b4a24619ab25)
+
+![Screenshot (10)](https://github.com/Debash1sh-Panda/ENTNT_ASSIGNMENT_ERP_SYSTEM/assets/144515067/614dcbcb-d826-4141-842f-73736b4a7ed4)
+
+![Screenshot (9)](https://github.com/Debash1sh-Panda/ENTNT_ASSIGNMENT_ERP_SYSTEM/assets/144515067/671f10a5-0b95-4a4f-9d9a-f60662f2d384)
 
 
 
 
 To view the ERP System Interface, Kindly refer to the below attached link:
 
-https://bishal-jena04.github.io/entnt/
 
 
